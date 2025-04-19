@@ -1,6 +1,6 @@
 {
   "name": "CH59xBLE_LIB",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "build": {
     "flags": [
       "-L.",
