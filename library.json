@@ -1,0 +1,18 @@
+{
+  "name": "WCH_BLE",
+  "version": "1.0.0",
+  "build": {
+    "flags": [
+      "-L.",
+      "-lCH59xBLE"
+    ],
+    "libArchive": false,
+    "srcFilter": [
+      "+<*>"
+    ]
+  },
+  "include": "include"
+}
+
+
+
